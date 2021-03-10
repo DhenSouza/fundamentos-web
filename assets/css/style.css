@@ -1,0 +1,17 @@
+/* Estilos da Página index.html*/
+
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+/* Estilos da Página contato.html*/
