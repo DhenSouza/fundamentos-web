@@ -4,6 +4,10 @@
     text-align: center;
 }
 
+.justify {
+    text-align: justify;
+}
+
 .container {
     display: flex;
     flex-flow: row ;
@@ -12,6 +16,46 @@
 }
 
 
+#menu li {
+    display: inline;
+    padding: 15px;
+    font-size: 20px
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu li a:hover {
+    color: gray;
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.br-50 {
+    border-radius: 50%;
+}
+
+.wh-400 {
+    height: 400px;
+    width: 400px;
+}
+
+.tm-social {
+    width: 40px;
+    height: 40px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
 
 
 /* Estilos da Página contato.html*/
+
+.ml-50 {
+    margin-left: 50px;
+}
